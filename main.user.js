@@ -4,15 +4,15 @@
 // @match       https://enthub.it/*
 // @grant       none
 // @version     1.0.0
-// @author      -
+// @author      TentacleTenticals
 // @description Автокликер формы написания комментариев
 // @homepage    https://github.com/Enthub-it/CommentForm-Autoclicker/
-// @updateURL   https://github.com/Enthub-it/CommentForm-Autoclicker/raw/master/main.user.js
-// @downloadURL https://github.com/Enthub-it/CommentForm-Autoclicker/raw/master/main.user.js
+// @updateURL   https://github.com/Enthub-it/CommentForm-Autoclicker/raw/main/main.user.js
+// @downloadURL https://github.com/Enthub-it/CommentForm-Autoclicker/raw/main/main.user.js
 // ==/UserScript==
 
 (() => {
-  console.log('[CommentForm Autoclicker] started');
+  console.log('[Test]');
 
   function clicker(btn){
     let el;
