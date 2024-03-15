@@ -3,7 +3,7 @@
 // @namespace   https://github.com/Enthub-it
 // @match       https://enthub.it/*
 // @grant       none
-// @version     1.0.0
+// @version     1.0.1
 // @author      TentacleTenticals
 // @description Автокликер формы написания комментариев
 // @homepage    https://github.com/Enthub-it/CommentForm-Autoclicker/
